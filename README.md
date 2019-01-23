@@ -3,6 +3,8 @@
 
 Login authentication app with user sessions. Features server-side rendering and password encryption.
 
+![example-site](out.gif)
+
 ## Back-end
 
 * [x] Install dependencies
